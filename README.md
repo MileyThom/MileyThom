@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Miley 👋
+
+I am a student at the University of Oklahoma. A passionate data scientist and communicator, I studies Information Science and Technology with particularly investment in the legal aspects of data management and use, with the potential to study and begin a legal practice in the future
+
+
+
+
+
 
 <!--
 **MileyThom/MileyThom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
