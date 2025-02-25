@@ -1,6 +1,6 @@
 ## Hi there, I'm Miley 👋
 
-I am a student at the University of Oklahoma. A passionate data scientist and communicator, I studies Information Science and Technology with particularly investment in the legal aspects of data management and use, with the potential to study and begin a legal practice in the future
+I am a student at the University of Oklahoma. A passionate data scientist and communicator, I study Information Science and Technology with particularly investment in the legal aspects of data management and use, with the potential to study and begin a legal practice in the future
 
 
 
