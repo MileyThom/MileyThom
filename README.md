@@ -1,6 +1,15 @@
-## Hi there, I'm Miley 👋
+# Miley Thompson: Learner; Scientist; Communicator.
 
-I am a student at the University of Oklahoma. A passionate data scientist and communicator, I study Information Science and Technology with particularly investment in the legal aspects of data management and use, with the potential to study and begin a legal practice in the future
+Salutations! My name is Miley Thompson and I am a current student at the University of Oklahoma where I study Informatiuon Science and Technology. As a growing information professional, my interests range from data science and machine learning to network management and cybersecurity. I am an experienced writing consultant and a proud commmunicator of many an interesting fact. Here you can find my a collection of academic and personal projects that make up my portfolio. Should you have any questions about something i've worked on, please feel free to visit mileythompson.com and shoot me a message. I'd love to hear from you! 
+
+Signing off, 
+
+Miley Thompson \
+Information Science and Technology – University of Oklahoma \
+She/Her/Hers \
+*It is through equalizing learning, working, and communicating that we may find success.*
+
+
 
 
 
