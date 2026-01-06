@@ -1,6 +1,6 @@
 # Miley Thompson: Learner; Scientist; Communicator.
 
-My name is Miley Thompson and I am a current student at the University of Oklahoma where I study Informatiuon Science and Technology. As a growing information professional, my interests range from data science and machine learning to network management and cybersecurity. I am an experienced writing consultant and a proud commmunicator. Here you can find my a collection of academic and personal projects that make up my portfolio. Should you have any questions about something i've worked on, please feel free to visit mileythompson.com and shoot me a message. I'd love to hear from you! 
+My name is Miley Thompson and I am a current student at the University of Oklahoma where I study information Science and Technology. As a growing information professional, my interests range from data science and machine learning to network management and cybersecurity. I am an experienced writing consultant and a proud commmunicator. Here you can find my a collection of academic and personal projects that make up my portfolio. Should you have any questions about something i've worked on, please feel free to visit mileythompson.com and shoot me a message. I'd love to hear from you! 
 
 Signing off, 
 
